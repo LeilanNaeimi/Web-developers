@@ -37,6 +37,7 @@ free resources for being web developer
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
   
 ## git Repo:
+* [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
 * [personal web site](https://github.com/Ho3einWave/personal-website-react)
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * [brad traversy 50 projects 50 days](https://github.com/bradtraversy/50projects50days)
