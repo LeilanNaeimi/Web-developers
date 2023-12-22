@@ -4,7 +4,7 @@ free resources for being web developer
 ## the odin project
 
 [Odin](https://www.theodinproject.com/dashboard)
---------------------------------------------
+
 ## LLM
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
