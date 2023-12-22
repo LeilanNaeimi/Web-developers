@@ -55,4 +55,6 @@ free resources for being web developer
 ## site ideas:
 
 * [mycoffee](https://imissmycafe.com/)
-  
+
+## Good to Know:
+* [learn](https://twitter.com/taherighaletaki/status/1731359660207145004)
