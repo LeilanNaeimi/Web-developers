@@ -1,4 +1,4 @@
-# Web-developers
+# Web developers Resourses
 free resources for being web developer
 
 ## the odin project
