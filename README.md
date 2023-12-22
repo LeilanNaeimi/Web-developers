@@ -9,6 +9,7 @@ free resources for being web developer
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [cool site](https://bbycroft.net/llm)
+* [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
 
 ## ChatBot:
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
