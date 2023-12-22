@@ -75,6 +75,10 @@ free resources for being web developer
 
 * [mycoffee](https://imissmycafe.com/)
 * [THE SAGITTARIUS ME](https://thesagittariusme.blogspot.com/)
+* [multiple Window 3d Scene](https://github.com/bgstaal/multipleWindow3dScene)
+* [cool site](https://bgstaal.github.io/multipleWindow3dScene/)
+* [the fuck](https://github.com/nvbn/thefuck)
+* 
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
