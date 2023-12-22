@@ -75,7 +75,8 @@ free resources for being web developer
 * [multiple Window 3d Scene](https://github.com/bgstaal/multipleWindow3dScene)
 * [cool site](https://bgstaal.github.io/multipleWindow3dScene/)
 * [the fuck](https://github.com/nvbn/thefuck)
-* 
+* [Animated Process Flow Diagram](https://www.jointjs.com/demos/animated-process-flow-diagram)
+  
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
