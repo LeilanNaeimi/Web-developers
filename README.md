@@ -24,6 +24,10 @@ free resources for being web developer
  * Git
  * Reactjs
 
+## Extra:
+* [Objects n javaScript 1](https://javascript.info/object)
+* [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+  
 ## youtube:
 * Git:
  [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
@@ -61,7 +65,7 @@ free resources for being web developer
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
 * [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
 
-## Pussles:
+## Puzzles:
 
 * [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
