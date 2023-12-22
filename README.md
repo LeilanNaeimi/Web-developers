@@ -5,6 +5,10 @@ free resources for being web developer
 
 [Odin](https://www.theodinproject.com/dashboard)
 
+## LLM
+
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+
 ## Interview Questions:
 [Interview Questions](https://ashhad.in/list/)
 
