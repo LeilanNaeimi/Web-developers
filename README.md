@@ -64,6 +64,7 @@ free resources for being web developer
 ## site ideas:
 
 * [mycoffee](https://imissmycafe.com/)
+* [THE SAGITTARIUS ME](https://thesagittariusme.blogspot.com/)
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
