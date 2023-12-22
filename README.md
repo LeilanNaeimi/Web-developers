@@ -9,6 +9,9 @@ free resources for being web developer
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
+## ChatBot:
+* [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
+* 
 ## Interview Questions:
 [Interview Questions](https://ashhad.in/list/)
 
@@ -35,6 +38,10 @@ free resources for being web developer
 * 
 ## Courses:
 
+* [Learn web development](https://web.dev/learn)
+* [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
+* [Data Structures & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+* 
 ## code samles:
 [minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
 
