@@ -54,6 +54,7 @@ free resources for being web developer
 * [usefull links repo 2](https://github.com/rezaamini-ir/awesome-github)
 * [chandome](https://github.com/callmearta/chandome/releases/tag/v1.0.0)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
   
 ## Courses:
 
