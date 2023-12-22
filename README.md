@@ -33,6 +33,7 @@ free resources for being web developer
 * [Array in javaScript 1](https://javascript.info/array-methods)
 * [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 * [Learning CSS :nth-child selector](https://codepen.io/ameer_mousavi/full/RwvqLQP)
+* [Machine Learning](https://github.com/microsoft/ML-For-Beginners)
   
   
 ## youtube:
