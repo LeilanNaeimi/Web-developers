@@ -44,4 +44,4 @@ free resources for being web developer
 
 ## site ideas:
 
-* [](https://imissmycafe.com/)
+* [mycoffee](https://imissmycafe.com/)
