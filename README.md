@@ -8,10 +8,11 @@ free resources for being web developer
 ## LLM
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [cool site](https://bbycroft.net/llm)
 
 ## ChatBot:
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
-* 
+  
 ## Interview Questions:
 [Interview Questions](https://ashhad.in/list/)
 
@@ -23,25 +24,26 @@ free resources for being web developer
 
 ## youtube:
 * Git:
-  
  [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
-
+* [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
+  
 ## git Repo:
 * [personal web site](https://github.com/Ho3einWave/personal-website-react)
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * [brad traversy 50 projects 50 days](https://github.com/bradtraversy/50projects50days)
 * [beau carnes](https://github.com/beaucarnes?tab=repositories)
 * [ashhad ahmad](https://github.com/ashhadahmad?tab=repositories)
-* [barnamenevisi](https://github.com/barnamenevisi/free-resources)
+* [usefull links repo 1](https://github.com/barnamenevisi/free-resources)
+* [usefull links repo 2](https://github.com/rezaamini-ir/awesome-github)
 * [chandome](https://github.com/callmearta/chandome/releases/tag/v1.0.0)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* 
+  
 ## Courses:
 
 * [Learn web development](https://web.dev/learn)
 * [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
 * [Data Structures & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
-* 
+  
 ## code samles:
 [minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
 
@@ -52,4 +54,4 @@ free resources for being web developer
 ## site ideas:
 
 * [mycoffee](https://imissmycafe.com/)
-* 
+  
