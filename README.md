@@ -10,6 +10,7 @@ free resources for being web developer
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [cool site](https://bbycroft.net/llm)
 * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
+* [sharif uni](https://sharif-llm.ir/calendar/)
 
 ## ChatBot:
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
@@ -57,4 +58,5 @@ free resources for being web developer
 * [mycoffee](https://imissmycafe.com/)
 
 ## Good to Know:
-* [learn](https://twitter.com/taherighaletaki/status/1731359660207145004)
+* [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
+* [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
