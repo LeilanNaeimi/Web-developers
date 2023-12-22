@@ -14,6 +14,7 @@ free resources for being web developer
 * [LLM_Course_Notes](https://github.com/amirkhalesi/LLM_Course_Notes)
 * [LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F)
 * [Create a Large Language Model from Scratch with Python](https://www.youtube.com/watch?v=UU1WVnMk4E8&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F)
+* [Andrew Ng - Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
   
 
 ## ChatBot:
