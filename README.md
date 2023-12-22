@@ -18,7 +18,8 @@ free resources for being web developer
   
 ## Interview Questions:
 
-[Interview Questions](https://ashhad.in/list/)
+* [Interview Questions](https://ashhad.in/list/)
+* [for interview](https://twitter.com/Shana_Kite/status/1728805173970035061)
 
 ## Books:
 
