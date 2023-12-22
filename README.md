@@ -4,7 +4,7 @@ free resources for being web developer
 ## the odin project
 
 [Odin](https://www.theodinproject.com/dashboard)
-
+--------------------------------------------
 ## LLM
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
@@ -13,9 +13,11 @@ free resources for being web developer
 * [sharif uni](https://sharif-llm.ir/calendar/)
 
 ## ChatBot:
+
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
   
 ## Interview Questions:
+
 [Interview Questions](https://ashhad.in/list/)
 
 ## Books:
@@ -25,6 +27,7 @@ free resources for being web developer
  * Reactjs
 
 ## Extra:
+
 * [Objects n javaScript 1](https://javascript.info/object)
 * [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
   
