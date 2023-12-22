@@ -5,8 +5,8 @@ free resources for being web developer
 
 [Odin](https://www.theodinproject.com/dashboard)
 
-## sample Projects:
-*[Interview Questions](https://ashhad.in/list/)
+## Interview Questions:
+[Interview Questions](https://ashhad.in/list/)
 
 ## Books:
 
