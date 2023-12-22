@@ -29,6 +29,7 @@ free resources for being web developer
 * [beau carnes](https://github.com/beaucarnes?tab=repositories)
 * [ashhad ahmad](https://github.com/ashhadahmad?tab=repositories)
 * [barnamenevisi](https://github.com/barnamenevisi/free-resources)
+* [chandome](https://github.com/callmearta/chandome/releases/tag/v1.0.0)
 ## Courses:
 
 ## code samles:
