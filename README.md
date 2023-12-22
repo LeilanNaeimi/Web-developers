@@ -1,6 +1,13 @@
 # Web-developers
 free resources for being web developer
 
+## the odin project
+
+*[Odin](https://www.theodinproject.com/dashboard)
+
+## sample Projects:
+*[Interview Questions](https://ashhad.in/list/)
+
 ## Books:
 
  * javaScript:
