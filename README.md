@@ -60,3 +60,8 @@ free resources for being web developer
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
 * [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
+
+## Pussles:
+
+* [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+* [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
