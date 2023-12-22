@@ -25,12 +25,23 @@ free resources for being web developer
 
 ## git Repo:
 * [personal web site](https://github.com/Ho3einWave/personal-website-react)
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * [brad traversy 50 projects 50 days](https://github.com/bradtraversy/50projects50days)
 * [beau carnes](https://github.com/beaucarnes?tab=repositories)
 * [ashhad ahmad](https://github.com/ashhadahmad?tab=repositories)
 * [barnamenevisi](https://github.com/barnamenevisi/free-resources)
 * [chandome](https://github.com/callmearta/chandome/releases/tag/v1.0.0)
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* 
 ## Courses:
 
 ## code samles:
 [minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
+
+## Cheatsheet
+
+* [pythone](https://gto76.github.io/python-cheatsheet/)
+
+## site ideas:
+
+* [](https://imissmycafe.com/)
