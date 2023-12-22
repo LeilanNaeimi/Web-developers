@@ -32,6 +32,7 @@ free resources for being web developer
 * [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 * [Array in javaScript 1](https://javascript.info/array-methods)
 * [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+* [Learning CSS :nth-child selector](https://codepen.io/ameer_mousavi/full/RwvqLQP)
   
   
 ## youtube:
