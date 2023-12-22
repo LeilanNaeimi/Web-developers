@@ -27,5 +27,5 @@ free resources for being web developer
 * [barnamenevisi](https://github.com/barnamenevisi/free-resources)
 ## Courses:
 
-## channels:
-
+## code samles:
+[minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
