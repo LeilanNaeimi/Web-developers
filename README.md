@@ -69,6 +69,11 @@ free resources for being web developer
 * [chandome](https://github.com/callmearta/chandome/releases/tag/v1.0.0)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+* [alin11.github.io](https://github.com/AliN11/alin11.github.io/tree/master/playground)
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme)
+* [jonasschmedtmann html-css-course](https://github.com/jonasschmedtmann/html-css-course)
+* [jonasschmedtmann advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course)
+* 
   
 ## Courses:
 
