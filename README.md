@@ -48,6 +48,10 @@ free resources for being web developer
 * [Constructors Are Bad For JavaScript](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
 * [Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
 * [readme.me tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [exercism - javascript](https://github.com/exercism/javascript/tree/main/exercises)
+* [public apis](https://github.com/public-apis/public-apis)
+* [LeetCode](https://github.com/ani03sha/RedQuarkTutorials/tree/master/LeetCode)
+* 
   
   
 ## youtube:
