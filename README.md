@@ -77,7 +77,8 @@ free resources for being web developer
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme)
 * [jonasschmedtmann html-css-course](https://github.com/jonasschmedtmann/html-css-course)
 * [jonasschmedtmann advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course)
-* 
+* [grokking algorithms](https://github.com/egonschiele/grokking_algorithms)
+  
   
 ## Courses:
 
