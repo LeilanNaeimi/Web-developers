@@ -102,4 +102,9 @@ free resources for being web developer
 * [figma](https://www.figma.com/)
 * [Lucid](https://www.lucidchart.com/pages/)
 * [miro](https://miro.com/)
+* [drawio](https://www.drawio.com/)
+
+## mindset
+* [mindmeister](https://www.mindmeister.com/)
+* [xmind](https://xmind.app/)
   
