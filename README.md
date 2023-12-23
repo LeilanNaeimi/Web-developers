@@ -56,6 +56,7 @@ free resources for being web developer
   
 ## git Repo:
 * [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
+* [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 * [project based learning](https://github.com/practical-tutorials/project-based-learning)
 * [personal web site](https://github.com/Ho3einWave/personal-website-react)
 * [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
