@@ -35,6 +35,7 @@ free resources for being web developer
 ## Learn More:
 
 * [js is weird](https://jsisweird.com/)
+* [Interactive code examples](https://codapi.org/)
 * [Objects n javaScript 1](https://javascript.info/object)
 * [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 * [Array in javaScript 1](https://javascript.info/array-methods)
