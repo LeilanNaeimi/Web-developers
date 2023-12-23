@@ -5,6 +5,9 @@ free resources for being web developer
 
 [Odin](https://www.theodinproject.com/dashboard)
 
+## Challenges
+* [JavaScript30](https://courses.wesbos.com/account/access/6131c800b36fe451adb8cf4b)
+  
 ## LLM
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
