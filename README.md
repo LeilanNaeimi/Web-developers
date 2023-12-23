@@ -96,3 +96,10 @@ free resources for being web developer
 
 * [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
+
+## whiteboard
+* [Canva](https://www.canva.com/online-whiteboard/)
+* [figma](https://www.figma.com/)
+* [Lucid](https://www.lucidchart.com/pages/)
+* [miro](https://miro.com/)
+  
