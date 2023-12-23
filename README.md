@@ -32,8 +32,9 @@ free resources for being web developer
 ## Books:
  * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
 
-## Extra:
+## Learn More:
 
+* [js is weird](https://jsisweird.com/)
 * [Objects n javaScript 1](https://javascript.info/object)
 * [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 * [Array in javaScript 1](https://javascript.info/array-methods)
