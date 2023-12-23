@@ -28,6 +28,7 @@ free resources for being web developer
 
 * [Interview Questions](https://ashhad.in/list/)
 * [for interview](https://twitter.com/Shana_Kite/status/1728805173970035061)
+* [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
 ## Books:
  * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
