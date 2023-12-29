@@ -127,4 +127,8 @@ free resources for being web developer
 
   * [3D Videos](https://createstudio.com/)
 
- 
+## SOLID
+
+* [SOLID principle](https://duncan-mcardle.medium.com/solid-principle-1-single-responsibility-javascript-5d9ce2c6f4a5)
+* [SOLID Design Principles](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
+* [How to Write Highly Scalable and Maintainable JavaScript](https://web.archive.org/web/20200810210808/https://medium.com/@alexcastrounis/how-to-write-highly-scalable-and-maintainable-javascript-coupling-c860787dbdd4)
