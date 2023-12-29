@@ -60,6 +60,7 @@ free resources for being web developer
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
   
 ## git Repo:
+
 * [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
 * [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 * [project based learning](https://github.com/practical-tutorials/project-based-learning)
@@ -78,6 +79,7 @@ free resources for being web developer
 * [jonasschmedtmann html-css-course](https://github.com/jonasschmedtmann/html-css-course)
 * [jonasschmedtmann advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course)
 * [grokking algorithms](https://github.com/egonschiele/grokking_algorithms)
+* [manipulating JavaScript dates in a browser & Node.js](https://github.com/date-fns/date-fns)
   
   
 ## Courses:
