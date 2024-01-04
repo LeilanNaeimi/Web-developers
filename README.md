@@ -51,10 +51,10 @@ free resources for being web developer
 * [exercism - javascript](https://github.com/exercism/javascript/tree/main/exercises)
 * [public apis](https://github.com/public-apis/public-apis)
 * [LeetCode](https://github.com/ani03sha/RedQuarkTutorials/tree/master/LeetCode)
-* 
   
   
 ## youtube:
+
 * Git:
  [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
@@ -106,6 +106,7 @@ free resources for being web developer
   
 
 ## Good to Know:
+
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
 * [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
 
@@ -114,27 +115,30 @@ free resources for being web developer
 * [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 
-## whiteboard
+## whiteboard:
+
 * [Canva](https://www.canva.com/online-whiteboard/)
 * [figma](https://www.figma.com/)
 * [Lucid](https://www.lucidchart.com/pages/)
 * [miro](https://miro.com/)
 * [drawio](https://www.drawio.com/)
 
-## mindset
+## mindset:
+
 * [mindmeister](https://www.mindmeister.com/)
 * [xmind](https://xmind.app/)
 
-  ## Create Videos
+## Create Videos:
 
   * [3D Videos](https://createstudio.com/)
 
-## SOLID
+## SOLID:
 
 * [SOLID principle](https://duncan-mcardle.medium.com/solid-principle-1-single-responsibility-javascript-5d9ce2c6f4a5)
 * [SOLID Design Principles](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
 * [How to Write Highly Scalable and Maintainable JavaScript](https://web.archive.org/web/20200810210808/https://medium.com/@alexcastrounis/how-to-write-highly-scalable-and-maintainable-javascript-coupling-c860787dbdd4)
 
-## Web Storage API
+## Web Storage API:
 
 * [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+* [advice PI](https://api.adviceslip.com/)
