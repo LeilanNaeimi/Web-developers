@@ -1,5 +1,5 @@
 # Web developers Resourses
-free resources for being web developer
+free resources for being web developer and MORE!
 
 ## the odin project
 
