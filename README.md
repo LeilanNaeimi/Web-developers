@@ -36,6 +36,7 @@ free resources for being web developer and MORE!
 ## Learn More:
 
 * [js is weird](https://jsisweird.com/)
+* [Cool Comics](https://wizardzines.com/)
 * [Interactive code examples](https://codapi.org/)
 * [Objects n javaScript 1](https://javascript.info/object)
 * [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
