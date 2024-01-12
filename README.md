@@ -144,3 +144,7 @@ free resources for being web developer and MORE!
 
 * [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 * [advice PI](https://api.adviceslip.com/)
+
+## Cool Web Dev Tools:
+
+* [Random Profile Image size 48](https://i.pravatar.cc/48)
