@@ -148,3 +148,7 @@ free resources for being web developer and MORE!
 ## Cool Web Dev Tools:
 
 * [Random Profile Image size 48](https://i.pravatar.cc/48)
+
+## AWS
+
+* [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)  
