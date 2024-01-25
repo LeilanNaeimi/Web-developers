@@ -3,6 +3,7 @@ free resources for being web developer and MORE!
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
+* [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
   
 ## the odin project
 
