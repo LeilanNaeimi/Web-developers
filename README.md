@@ -1,6 +1,9 @@
 # Web developers Resourses
 free resources for being web developer and MORE!
 
+## API
+* [Weather API](https://www.weatherapi.com/docs/)
+  
 ## the odin project
 
 [Odin](https://www.theodinproject.com/dashboard)
