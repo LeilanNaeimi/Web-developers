@@ -4,6 +4,17 @@ free resources for being web developer and MORE!
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
+* [public apis](https://github.com/public-apis/public-apis)
+
+## Articles:
+* [Objects n javaScript 1](https://javascript.info/object)
+* [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+* [Array in javaScript 1](https://javascript.info/array-methods)
+* [The article on scope](https://wesbos.com/javascript/03-the-tricky-bits/scope)
+* [The article on closures](https://wesbos.com/javascript/03-the-tricky-bits/closures)
+* [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+* [Constructors Are Bad For JavaScript](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
+* [Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
 
 ## AWS
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)
@@ -31,7 +42,11 @@ free resources for being web developer and MORE!
 * [Web Development Courses](https://progate.com/courses?register=true)
   
 ## code samles:
-[minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
+* [minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
+* [Interactive code examples](https://codapi.org/)
+
+## Code challenge:
+* [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
 
 ## Cheatsheet
 * [pythone](https://gto76.github.io/python-cheatsheet/)
@@ -40,44 +55,41 @@ free resources for being web developer and MORE!
 * [html5.html](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
 * [javascript.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js)
 
+## Color pallet
+* [colorhub](https://www.colorhub.app/)
+* [colorhunt](https://colorhunt.co/) 
+* [color-wheel](https://color.adobe.com/create/color-wheel)
+* [coolors](https://coolors.co/)
+* [paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [colorkarma](https://colorkarma.com/gizmos/pantone-studio/)
+* [flatuicolors](https://flatuicolors.com/)
+* [color-hex](https://www.color-hex.com/)
+* [colormind](http://colormind.io/)
+
 ## Create Videos:
   * [3D Videos](https://createstudio.com/)
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
-* [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
 * [UNICODES...](https://www.w3schools.com/charsets/ref_utf_arrows.asp)
 * [Learn the smart, efficient way to test any JavaScript application](https://www.testingjavascript.com/)
 * [Tools That Will Make You a Better Coder](https://selftaught.blog/10-tools-that-will-make-you-a-better-coder/)
 * [js is weird](https://jsisweird.com/)
 * [Cool Comics](https://wizardzines.com/)
-* [Interactive code examples](https://codapi.org/)
-* [Objects n javaScript 1](https://javascript.info/object)
-* [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-* [Array in javaScript 1](https://javascript.info/array-methods)
-* [The article on scope](https://wesbos.com/javascript/03-the-tricky-bits/scope)
-* [The article on closures](https://wesbos.com/javascript/03-the-tricky-bits/closures)
-* [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 * [Learning CSS :nth-child selector](https://codepen.io/ameer_mousavi/full/RwvqLQP)
-* [Machine Learning](https://github.com/microsoft/ML-For-Beginners)
-* [Constructors Are Bad For JavaScript](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
-* [Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
 * [readme.me tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [exercism - javascript](https://github.com/exercism/javascript/tree/main/exercises)
-* [public apis](https://github.com/public-apis/public-apis)
-* [LeetCode](https://github.com/ani03sha/RedQuarkTutorials/tree/master/LeetCode)
 * [short code snippets for all your development needs](https://www.30secondsofcode.org/)
   
 ## Git:
- [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
+* [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
   
 ## git Repo:
 * [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
 * [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 * [project based learning](https://github.com/practical-tutorials/project-based-learning)
-* [personal web site](https://github.com/Ho3einWave/personal-website-react)
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+* [personal web site](https://github.com/Ho3einWave/personal-website-react) 
 * [brad traversy 50 projects 50 days](https://github.com/bradtraversy/50projects50days)
 * [beau carnes](https://github.com/beaucarnes?tab=repositories)
 * [ashhad ahmad](https://github.com/ashhadahmad?tab=repositories)
@@ -119,8 +131,9 @@ free resources for being web developer and MORE!
 * [Create a Large Language Model from Scratch with Python](https://www.youtube.com/watch?v=UU1WVnMk4E8&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F)
 * [Andrew Ng - Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 
-## LeetCode Solutions
+## LeetCode / Solutions
 * [LeetCode Solutions](https://walkccc.me/LeetCode/problems/0001/)
+* [LeetCode](https://github.com/ani03sha/RedQuarkTutorials/tree/master/LeetCode)
     
 ## mindset:
 * [mindmeister](https://www.mindmeister.com/)
