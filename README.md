@@ -67,7 +67,15 @@ free resources for being web developer and MORE!
 * [colormind](http://colormind.io/)
 
 ## Create Videos:
-  * [3D Videos](https://createstudio.com/)
+* [3D Videos](https://createstudio.com/)
+
+## Font
+* [fonts](https://fonts.google.com/)
+* [fontlibrary](https://fontlibrary.org/)
+* [fonts.adobe](https://fonts.adobe.com/)
+* [fileinfo](https://fileinfo.com/filetypes/font)
+* [w3schools](https://www.w3schools.com/css/css3_fonts.asp)
+* [system-font-stack](https://css-tricks.com/snippets/css/system-font-stack/)
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
