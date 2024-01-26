@@ -49,6 +49,8 @@ free resources for being web developer and MORE!
 * [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
 
 ## Cheatsheet
+* [htmlcheatsheet](https://htmlcheatsheet.com/css/)
+* [emmet](https://docs.emmet.io/cheat-sheet/) 
 * [pythone](https://gto76.github.io/python-cheatsheet/)
 * [tailwind](https://nerdcave.com/tailwind-cheat-sheet)
 * [react.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
