@@ -162,3 +162,13 @@ free resources for being web developer and MORE!
 ## LeetCode Solutions
 
 * [LeetCode Solutions](https://walkccc.me/LeetCode/problems/0001/)
+
+## Games to learn CSS
+* [codepip](https://codepip.com/games/)
+* [css battle](https://cssbattle.dev/)
+* [CSS Diner](https://flukeout.github.io/)
+* [flexbox froggy](https://flexboxfroggy.com/)
+* [css grid garden](https://cssgridgarden.com/)
+* [css animation](https://cssanimation.rocks/)
+* [unfold](https://rupl.github.io/unfold/)
+* [flexbox defense](http://www.flexboxdefense.com/) 
