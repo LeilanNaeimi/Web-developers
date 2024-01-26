@@ -202,8 +202,8 @@ free resources for being web developer and MORE!
 ## Unit Test
 * [javascript](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/)
 * [How to write unit tests in JavaScript with Jest](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83)
+* [cypress](https://www.cypress.io/)
   
-
 ## UX Design Courses
 * [UX Design Courses](https://careerfoundry.com/en/blog/ux-design/ux-design-course-online/)
 
