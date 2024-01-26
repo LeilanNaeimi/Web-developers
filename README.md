@@ -120,7 +120,17 @@ free resources for being web developer and MORE!
 * [Interview Questions](https://ashhad.in/list/)
 * [for interview](https://twitter.com/Shana_Kite/status/1728805173970035061)
 * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
-    
+
+## Icon Library
+* [svgrepo](https://www.svgrepo.com/)
+* [free-svg-icons](https://www.reshot.com/free-svg-icons/emoji/)
+* [mingcute](https://www.mingcute.com/)
+* [vectopus](https://atlasicons.vectopus.com/)
+* [healthicons](https://healthicons.org/)
+* [iconoir](https://iconoir.com/)
+* [fonty](https://fonty.io/)
+* [iconbuddy](https://iconbuddy.app/)
+
 ## LLM
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [cool site](https://bbycroft.net/llm)
@@ -146,7 +156,7 @@ free resources for being web developer and MORE!
 ## Projects Idea
 * [projectbook](https://projectbook.code.brettchalupa.com/)
   
-## site ideas:
+## Site ideas:
 * [mycoffee](https://imissmycafe.com/)
 * [THE SAGITTARIUS ME](https://thesagittariusme.blogspot.com/)
 * [multiple Window 3d Scene](https://github.com/bgstaal/multipleWindow3dScene)
@@ -159,6 +169,12 @@ free resources for being web developer and MORE!
 * [SOLID Design Principles](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
 * [How to Write Highly Scalable and Maintainable JavaScript](https://web.archive.org/web/20200810210808/https://medium.com/@alexcastrounis/how-to-write-highly-scalable-and-maintainable-javascript-coupling-c860787dbdd4)
 
+## System Design
+* [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+
+## date snippets
+* [date snippets for JavaScript & React](https://codetogo.io/)
+  
 ## whiteboard:
 * [Canva](https://www.canva.com/online-whiteboard/)
 * [figma](https://www.figma.com/)
