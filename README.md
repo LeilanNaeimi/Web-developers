@@ -99,6 +99,7 @@ free resources for being web developer and MORE!
 ## Cheatsheet
 
 * [pythone](https://gto76.github.io/python-cheatsheet/)
+* [tailwind](https://nerdcave.com/tailwind-cheat-sheet)
 
 ## site ideas:
 
