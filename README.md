@@ -4,41 +4,51 @@ free resources for being web developer and MORE!
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
-  
-## the odin project
 
-[Odin](https://www.theodinproject.com/dashboard)
-
-## Challenges
-* [JavaScript30](https://courses.wesbos.com/account/access/6131c800b36fe451adb8cf4b)
-  
-## LLM
-
-* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
-* [cool site](https://bbycroft.net/llm)
-* [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
-* [sharif uni](https://sharif-llm.ir/calendar/)
-* [LLM_Course_Notes](https://github.com/amirkhalesi/LLM_Course_Notes)
-* [LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F)
-* [Create a Large Language Model from Scratch with Python](https://www.youtube.com/watch?v=UU1WVnMk4E8&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F)
-* [Andrew Ng - Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
-  
-
-## ChatBot:
-
-* [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
-  
-## Interview Questions:
-
-* [Interview Questions](https://ashhad.in/list/)
-* [for interview](https://twitter.com/Shana_Kite/status/1728805173970035061)
-* [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
+## AWS
+* [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)
 
 ## Books:
  * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
+    
+## Challenges
+* [JavaScript30](https://courses.wesbos.com/account/access/6131c800b36fe451adb8cf4b)
 
-## Learn More:
+## CSS Grid/FLEX
+* [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [grid malven](https://grid.malven.co/)
+* [flexbox malven](https://flexbox.malven.co/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 
+## ChatBot:
+* [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
+
+## Courses:
+* [Odin](https://www.theodinproject.com/dashboard)
+* [Learn web development](https://web.dev/learn)
+* [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
+* [Data Structures & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+* [Web Development Courses](https://progate.com/courses?register=true)
+  
+## code samles:
+[minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
+
+## Cheatsheet
+* [pythone](https://gto76.github.io/python-cheatsheet/)
+* [tailwind](https://nerdcave.com/tailwind-cheat-sheet)
+* [react.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
+* [html5.html](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html)
+* [javascript.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js)
+
+## Create Videos:
+  * [3D Videos](https://createstudio.com/)
+
+## Good to Know:
+* [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
+* [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
+* [UNICODES...](https://www.w3schools.com/charsets/ref_utf_arrows.asp)
+* [Learn the smart, efficient way to test any JavaScript application](https://www.testingjavascript.com/)
+* [Tools That Will Make You a Better Coder](https://selftaught.blog/10-tools-that-will-make-you-a-better-coder/)
 * [js is weird](https://jsisweird.com/)
 * [Cool Comics](https://wizardzines.com/)
 * [Interactive code examples](https://codapi.org/)
@@ -56,16 +66,13 @@ free resources for being web developer and MORE!
 * [exercism - javascript](https://github.com/exercism/javascript/tree/main/exercises)
 * [public apis](https://github.com/public-apis/public-apis)
 * [LeetCode](https://github.com/ani03sha/RedQuarkTutorials/tree/master/LeetCode)
+* [short code snippets for all your development needs](https://www.30secondsofcode.org/)
   
-  
-## youtube:
-
-* Git:
+## Git:
  [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
   
 ## git Repo:
-
 * [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
 * [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 * [project based learning](https://github.com/practical-tutorials/project-based-learning)
@@ -85,83 +92,7 @@ free resources for being web developer and MORE!
 * [jonasschmedtmann advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course)
 * [grokking algorithms](https://github.com/egonschiele/grokking_algorithms)
 * [manipulating JavaScript dates in a browser & Node.js](https://github.com/date-fns/date-fns)
-  
-  
-## Courses:
-
-* [Learn web development](https://web.dev/learn)
-* [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
-* [Data Structures & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
-  
-## code samles:
-[minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
-
-## Cheatsheet
-
-* [pythone](https://gto76.github.io/python-cheatsheet/)
-* [tailwind](https://nerdcave.com/tailwind-cheat-sheet)
-
-## site ideas:
-
-* [mycoffee](https://imissmycafe.com/)
-* [THE SAGITTARIUS ME](https://thesagittariusme.blogspot.com/)
-* [multiple Window 3d Scene](https://github.com/bgstaal/multipleWindow3dScene)
-* [cool site](https://bgstaal.github.io/multipleWindow3dScene/)
-* [the fuck](https://github.com/nvbn/thefuck)
-* [Animated Process Flow Diagram](https://www.jointjs.com/demos/animated-process-flow-diagram)
-  
-
-## Good to Know:
-
-* [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
-* [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
-* [UNICODES...](https://www.w3schools.com/charsets/ref_utf_arrows.asp)
-
-## Puzzles:
-
-* [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
-* [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
-
-## whiteboard:
-
-* [Canva](https://www.canva.com/online-whiteboard/)
-* [figma](https://www.figma.com/)
-* [Lucid](https://www.lucidchart.com/pages/)
-* [miro](https://miro.com/)
-* [drawio](https://www.drawio.com/)
-
-## mindset:
-
-* [mindmeister](https://www.mindmeister.com/)
-* [xmind](https://xmind.app/)
-
-## Create Videos:
-
-  * [3D Videos](https://createstudio.com/)
-
-## SOLID:
-
-* [SOLID principle](https://duncan-mcardle.medium.com/solid-principle-1-single-responsibility-javascript-5d9ce2c6f4a5)
-* [SOLID Design Principles](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
-* [How to Write Highly Scalable and Maintainable JavaScript](https://web.archive.org/web/20200810210808/https://medium.com/@alexcastrounis/how-to-write-highly-scalable-and-maintainable-javascript-coupling-c860787dbdd4)
-
-## Web Storage API:
-
-* [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
-* [advice PI](https://api.adviceslip.com/)
-
-## Cool Web Dev Tools:
-
-* [Random Profile Image size 48](https://i.pravatar.cc/48)
-
-## AWS
-
-* [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)
-
-
-## LeetCode Solutions
-
-* [LeetCode Solutions](https://walkccc.me/LeetCode/problems/0001/)
+* [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 
 ## Games to learn CSS
 * [codepip](https://codepip.com/games/)
@@ -171,4 +102,76 @@ free resources for being web developer and MORE!
 * [css grid garden](https://cssgridgarden.com/)
 * [css animation](https://cssanimation.rocks/)
 * [unfold](https://rupl.github.io/unfold/)
-* [flexbox defense](http://www.flexboxdefense.com/) 
+* [flexbox defense](http://www.flexboxdefense.com/)
+  
+## Interview Questions:
+* [Interview Questions](https://ashhad.in/list/)
+* [for interview](https://twitter.com/Shana_Kite/status/1728805173970035061)
+* [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
+    
+## LLM
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [cool site](https://bbycroft.net/llm)
+* [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
+* [sharif uni](https://sharif-llm.ir/calendar/)
+* [LLM_Course_Notes](https://github.com/amirkhalesi/LLM_Course_Notes)
+* [LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F)
+* [Create a Large Language Model from Scratch with Python](https://www.youtube.com/watch?v=UU1WVnMk4E8&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F)
+* [Andrew Ng - Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
+
+## LeetCode Solutions
+* [LeetCode Solutions](https://walkccc.me/LeetCode/problems/0001/)
+    
+## mindset:
+* [mindmeister](https://www.mindmeister.com/)
+* [xmind](https://xmind.app/)
+  
+## Puzzles:
+* [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+* [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
+
+## Projects Idea
+* [projectbook](https://projectbook.code.brettchalupa.com/)
+  
+## site ideas:
+* [mycoffee](https://imissmycafe.com/)
+* [THE SAGITTARIUS ME](https://thesagittariusme.blogspot.com/)
+* [multiple Window 3d Scene](https://github.com/bgstaal/multipleWindow3dScene)
+* [cool site](https://bgstaal.github.io/multipleWindow3dScene/)
+* [the fuck](https://github.com/nvbn/thefuck)
+* [Animated Process Flow Diagram](https://www.jointjs.com/demos/animated-process-flow-diagram)
+  
+## SOLID:
+* [SOLID principle](https://duncan-mcardle.medium.com/solid-principle-1-single-responsibility-javascript-5d9ce2c6f4a5)
+* [SOLID Design Principles](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9kocFX7R7BAe_CvvOCO_p9)
+* [How to Write Highly Scalable and Maintainable JavaScript](https://web.archive.org/web/20200810210808/https://medium.com/@alexcastrounis/how-to-write-highly-scalable-and-maintainable-javascript-coupling-c860787dbdd4)
+
+## whiteboard:
+* [Canva](https://www.canva.com/online-whiteboard/)
+* [figma](https://www.figma.com/)
+* [Lucid](https://www.lucidchart.com/pages/)
+* [miro](https://miro.com/)
+* [drawio](https://www.drawio.com/)
+
+## Web Storage API:
+* [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+* [advice PI](https://api.adviceslip.com/)
+
+## Web Dev Tools:
+* [Random Profile Image size 48](https://i.pravatar.cc/48)
+
+## Unit Test
+* [javascript](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/)
+* [How to write unit tests in JavaScript with Jest](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83)
+  
+
+## UX Design Courses
+* [UX Design Courses](https://careerfoundry.com/en/blog/ux-design/ux-design-course-online/)
+
+
+
+
+
+
+
+
