@@ -95,7 +95,7 @@ free resources for being web developer and MORE!
 * [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
   
-## git Repo:
+## Git Repo:
 * [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
 * [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 * [project based learning](https://github.com/practical-tutorials/project-based-learning)
@@ -133,6 +133,7 @@ free resources for being web developer and MORE!
 
 ## Icon Library
 * [svgrepo](https://www.svgrepo.com/)
+* [react icons](https://react-icons.github.io/react-icons/)
 * [free-svg-icons](https://www.reshot.com/free-svg-icons/emoji/)
 * [mingcute](https://www.mingcute.com/)
 * [vectopus](https://atlasicons.vectopus.com/)
