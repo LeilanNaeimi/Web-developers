@@ -35,6 +35,10 @@ free resources for being web developer and MORE!
 * [grid malven](https://grid.malven.co/)
 * [flexbox malven](https://flexbox.malven.co/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+* [css-tricks](https://css-tricks.com/)
+* [freefrontend](https://freefrontend.com/css-forms/)
+* [tutsplus](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
+  
 
 ## ChatBot:
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
@@ -180,6 +184,9 @@ free resources for being web developer and MORE!
 
 ## Projects Idea
 * [projectbook](https://projectbook.code.brettchalupa.com/)
+
+## Sass
+* [sass-lang](https://sass-lang.com/guide/)
   
 ## Site ideas:
 * [mycoffee](https://imissmycafe.com/)
