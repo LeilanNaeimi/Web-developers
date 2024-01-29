@@ -6,6 +6,11 @@ free resources for being web developer and MORE!
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
 * [public apis](https://github.com/public-apis/public-apis)
 
+## AI Code Generator
+* [codepal](https://codepal.ai/)
+* [ollama](https://ollama.ai/)
+* [readwise](https://readwise.io/)
+  
 ## Articles:
 * [Objects n javaScript 1](https://javascript.info/object)
 * [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
@@ -47,6 +52,7 @@ free resources for being web developer and MORE!
 
 ## Code challenge:
 * [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
+  
 
 ## Cheatsheet
 * [htmlcheatsheet](https://htmlcheatsheet.com/css/)
