@@ -61,8 +61,6 @@ free resources for being web developer and MORE!
 * [JavaScript 30-Day Challenge](https://www.youtube.com/playlist?list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz)
 * [javascript30](https://javascript30.com/)
   
-  
-
 ## Cheatsheet
 * [htmlcheatsheet](https://htmlcheatsheet.com/css/)
 * [emmet](https://docs.emmet.io/cheat-sheet/) 
@@ -86,6 +84,9 @@ free resources for being web developer and MORE!
 ## Create Videos:
 * [3D Videos](https://createstudio.com/)
 
+## date snippets
+* [date snippets for JavaScript & React](https://codetogo.io/)
+  
 ## Font
 * [fonts](https://fonts.google.com/)
 * [fontlibrary](https://fontlibrary.org/)
@@ -179,7 +180,7 @@ free resources for being web developer and MORE!
 * [LeetCode Solutions](https://walkccc.me/LeetCode/problems/0001/)
 * [LeetCode](https://github.com/ani03sha/RedQuarkTutorials/tree/master/LeetCode)
     
-## mindset:
+## Mindset:
 * [mindmeister](https://www.mindmeister.com/)
 * [xmind](https://xmind.app/)
   
@@ -209,10 +210,10 @@ free resources for being web developer and MORE!
 ## System Design
 * [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 
-## date snippets
-* [date snippets for JavaScript & React](https://codetogo.io/)
+## tools / Extention:
+* [](https://lodash.com/)
   
-## whiteboard:
+## Whiteboard:
 * [Canva](https://www.canva.com/online-whiteboard/)
 * [figma](https://www.figma.com/)
 * [Lucid](https://www.lucidchart.com/pages/)
@@ -233,9 +234,6 @@ free resources for being web developer and MORE!
   
 ## UX Design Courses
 * [UX Design Courses](https://careerfoundry.com/en/blog/ux-design/ux-design-course-online/)
-
-
-
 
 
 
