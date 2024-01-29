@@ -56,6 +56,11 @@ free resources for being web developer and MORE!
 
 ## Code challenge:
 * [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
+* [neetcode](https://neetcode.io/)
+* [leetcode](https://leetcode.com/)
+* [JavaScript 30-Day Challenge](https://www.youtube.com/playlist?list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz)
+* [javascript30](https://javascript30.com/)
+  
   
 
 ## Cheatsheet
