@@ -133,6 +133,14 @@ free resources for being web developer and MORE!
 
 ## Icon Library
 * [svgrepo](https://www.svgrepo.com/)
+* [iconhub](https://iconhub.io/)
+* [3dicons](https://3dicons.co/)
+* [phosphoricons](https://phosphoricons.com/)
+* [ionicons](https://ionic.io/ionicons)
+* [radix-ui](https://www.radix-ui.com/icons)
+* [systemuicons](https://www.systemuicons.com/)
+* [lineicons](https://lineicons.com/)
+* [tablericons](https://tablericons.com/)
 * [react icons](https://react-icons.github.io/react-icons/)
 * [free-svg-icons](https://www.reshot.com/free-svg-icons/emoji/)
 * [mingcute](https://www.mingcute.com/)
