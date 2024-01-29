@@ -94,6 +94,7 @@ free resources for being web developer and MORE!
 * [fileinfo](https://fileinfo.com/filetypes/font)
 * [w3schools](https://www.w3schools.com/css/css3_fonts.asp)
 * [system-font-stack](https://css-tricks.com/snippets/css/system-font-stack/)
+* [fonts.google](https://fonts.google.com/specimen/Montserrat)
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
@@ -211,7 +212,9 @@ free resources for being web developer and MORE!
 * [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 
 ## tools / Extention:
-* [](https://lodash.com/)
+* [lodash](https://lodash.com/)
+* [bennettfeely](https://bennettfeely.com/clippy/)
+* [easings](https://easings.net/)
   
 ## Whiteboard:
 * [Canva](https://www.canva.com/online-whiteboard/)
