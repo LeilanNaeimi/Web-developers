@@ -112,8 +112,10 @@ free resources for being web developer and MORE!
 * [short code snippets for all your development needs](https://www.30secondsofcode.org/)
   
 ## Git:
+* [Estimate Github Worth Generator](https://github-worth.vercel.app/)
 * [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
+* [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
   
 ## Git Repo:
 * [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
@@ -135,7 +137,6 @@ free resources for being web developer and MORE!
 * [grokking algorithms](https://github.com/egonschiele/grokking_algorithms)
 * [manipulating JavaScript dates in a browser & Node.js](https://github.com/date-fns/date-fns)
 * [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-* [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 
 ## Games to learn CSS
 * [codepip](https://codepip.com/games/)
