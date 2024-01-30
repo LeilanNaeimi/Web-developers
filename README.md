@@ -244,6 +244,16 @@ free resources for being web developer and MORE!
 * [](https://github.com/atapas/princess-finder)
 * [](https://github.com/atapas/imaginary)
 * [](https://github.com/atapas/html-tips-tricks)
+* [](https://github.com/atapas/js-tips-tricks)
+* [](https://github.com/atapas/react-add-table-dynamic-row)
+* [](https://github.com/atapas/shopnote)
+* [](https://github.com/atapas/add-copyright)
+* [](https://github.com/atapas/covid-19)
+* [](https://github.com/atapas/i18n-js-npm)
+* [](https://github.com/atapas/html-file-upload)
+* [](https://github.com/atapas/catstore)
+* [](https://github.com/atapas/testimonial)
+* [](https://github.com/atapas/learn-css-animation)
     
 ## Whiteboard:
 * [Canva](https://www.canva.com/online-whiteboard/)
