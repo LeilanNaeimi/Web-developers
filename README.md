@@ -182,6 +182,7 @@ free resources for being web developer and MORE!
 ## LeetCode / Solutions
 * [LeetCode Solutions](https://walkccc.me/LeetCode/problems/0001/)
 * [LeetCode](https://github.com/ani03sha/RedQuarkTutorials/tree/master/LeetCode)
+* [Python-Leet-Code](https://github.com/always-maap/Python-Leet-Code)
     
 ## Mindset:
 * [mindmeister](https://www.mindmeister.com/)
