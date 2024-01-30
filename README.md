@@ -134,6 +134,7 @@ free resources for being web developer and MORE!
 * [grokking algorithms](https://github.com/egonschiele/grokking_algorithms)
 * [manipulating JavaScript dates in a browser & Node.js](https://github.com/date-fns/date-fns)
 * [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+* [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 
 ## Games to learn CSS
 * [codepip](https://codepip.com/games/)
