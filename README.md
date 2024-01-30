@@ -27,8 +27,9 @@ free resources for being web developer and MORE!
 ## AWS
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)
 
-## Books:
+## E-Books:
  * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
+ * [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
     
 ## Challenges
 * [JavaScript30](https://courses.wesbos.com/account/access/6131c800b36fe451adb8cf4b)
