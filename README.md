@@ -39,7 +39,6 @@ free resources for being web developer and MORE!
 * [freefrontend](https://freefrontend.com/css-forms/)
 * [tutsplus](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
   
-
 ## ChatBot:
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 
@@ -184,7 +183,13 @@ free resources for being web developer and MORE!
 ## Mindset:
 * [mindmeister](https://www.mindmeister.com/)
 * [xmind](https://xmind.app/)
-  
+
+## Online coding:
+* [codepen](https://codepen.io/)
+* [codeboard](https://codeboard.io/)
+* [replit](https://replit.com/)
+* [codesandbox](https://codesandbox.io/)
+
 ## Puzzles:
 * [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
