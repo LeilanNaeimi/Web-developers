@@ -10,7 +10,10 @@ free resources for being web developer and MORE!
 * [codepal](https://codepal.ai/)
 * [ollama](https://ollama.ai/)
 * [readwise](https://readwise.io/)
-  
+
+## Architect webapps
+* [patterns](https://www.patterns.dev/)
+    
 ## Articles:
 * [Objects n javaScript 1](https://javascript.info/object)
 * [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
@@ -189,7 +192,7 @@ free resources for being web developer and MORE!
 * [codeboard](https://codeboard.io/)
 * [replit](https://replit.com/)
 * [codesandbox](https://codesandbox.io/)
-
+  
 ## Puzzles:
 * [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
