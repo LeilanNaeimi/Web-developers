@@ -228,7 +228,23 @@ free resources for being web developer and MORE!
 * [lodash](https://lodash.com/)
 * [bennettfeely](https://bennettfeely.com/clippy/)
 * [easings](https://easings.net/)
+
+## Unit Test
+* [javascript](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/)
+* [How to write unit tests in JavaScript with Jest](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83)
+* [cypress](https://www.cypress.io/)
   
+## UX Design Courses
+* [UX Design Courses](https://careerfoundry.com/en/blog/ux-design/ux-design-course-online/)
+
+## Useful side project GitHub repositories
+* [](https://github.com/atapas/theme-builder)
+* [](https://github.com/atapas/notifyme)
+* [](https://github.com/atapas/demolab)
+* [](https://github.com/atapas/princess-finder)
+* [](https://github.com/atapas/imaginary)
+* [](https://github.com/atapas/html-tips-tricks)
+    
 ## Whiteboard:
 * [Canva](https://www.canva.com/online-whiteboard/)
 * [figma](https://www.figma.com/)
@@ -243,13 +259,7 @@ free resources for being web developer and MORE!
 ## Web Dev Tools:
 * [Random Profile Image size 48](https://i.pravatar.cc/48)
 
-## Unit Test
-* [javascript](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/)
-* [How to write unit tests in JavaScript with Jest](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83)
-* [cypress](https://www.cypress.io/)
-  
-## UX Design Courses
-* [UX Design Courses](https://careerfoundry.com/en/blog/ux-design/ux-design-course-online/)
+
 
 
 
