@@ -24,13 +24,12 @@ free resources for being web developer and MORE!
 * [Constructors Are Bad For JavaScript](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
 * [Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
 
+## Browser Compatibility
+* [Browser Compatibility](https://caniuse.com/)
+  
 ## AWS
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)
 
-## E-Books:
- * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
- * [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
-    
 ## Challenges
 * [JavaScript30](https://courses.wesbos.com/account/access/6131c800b36fe451adb8cf4b)
 
@@ -90,6 +89,10 @@ free resources for being web developer and MORE!
 
 ## date snippets
 * [date snippets for JavaScript & React](https://codetogo.io/)
+
+## E-Books:
+ * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
+ * [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
   
 ## Font
 * [fonts](https://fonts.google.com/)
