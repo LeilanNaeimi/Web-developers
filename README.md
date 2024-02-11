@@ -96,6 +96,9 @@ free resources for being web developer and MORE!
 ## date snippets
 * [date snippets for JavaScript & React](https://codetogo.io/)
 
+## Developer Roadmap
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ## E-Books:
  * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
  * [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
