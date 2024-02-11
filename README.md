@@ -24,6 +24,9 @@ free resources for being web developer and MORE!
 * [Constructors Are Bad For JavaScript](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
 * [Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
 
+## BOOKS (FREE)
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
 ## Browser Compatibility
 * [Browser Compatibility](https://caniuse.com/)
   
