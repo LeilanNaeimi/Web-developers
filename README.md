@@ -241,6 +241,7 @@ free resources for being web developer and MORE!
 
 ## System Design
 * [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## tools / Extention:
 * [lodash](https://lodash.com/)
