@@ -167,6 +167,7 @@ free resources for being web developer and MORE!
 * [Interview Questions](https://ashhad.in/list/)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [for interview](https://twitter.com/Shana_Kite/status/1728805173970035061)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 * [google interview preparation problems](https://github.com/mgechev/google-interview-preparation-problems/tree/master/src)
 
