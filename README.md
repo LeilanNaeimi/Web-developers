@@ -132,6 +132,7 @@ free resources for being web developer and MORE!
   
 ## Git:
 * [Estimate Github Worth Generator](https://github-worth.vercel.app/)
+* [git](https://git-scm.com/book/en/v2)
 * [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 * [How To Write a USEFUL README On Github](https://www.youtube.com/watch?v=E6NO0rgFub4)
 * [coding playlist](https://www.youtube.com/playlist?list=PLC4ijgc7EXTKNCMpO31SZwP7IFM4NXE8O)
