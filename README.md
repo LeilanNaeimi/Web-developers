@@ -87,6 +87,9 @@ free resources for being web developer and MORE!
 ## Create Videos:
 * [3D Videos](https://createstudio.com/)
 
+## Data Science
+* [Data Science Projects](https://thecleverprogrammer.com/2022/03/09/data-science-projects/)
+
 ## date snippets
 * [date snippets for JavaScript & React](https://codetogo.io/)
 
