@@ -12,9 +12,7 @@ free resources for being web developer and MORE!
 * [fakeyou](https://fakeyou.com/)
 * [descript](https://www.descript.com/)
 * [murf](https://murf.ai/)
-* [](
-* [](
-* [](
+* [aiva](https://www.aiva.ai/) 
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
