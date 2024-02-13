@@ -9,7 +9,7 @@ free resources for being web developer and MORE!
 * [play ht](https://play.ht/)
 * [convai](https://convai.com/)
 * [replicastudios](https://www.replicastudios.com/)
-* [](
+* [fakeyou](https://fakeyou.com/)
 * [](
 * [](
 * [](
