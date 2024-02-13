@@ -10,7 +10,7 @@ free resources for being web developer and MORE!
 * [convai](https://convai.com/)
 * [replicastudios](https://www.replicastudios.com/)
 * [fakeyou](https://fakeyou.com/)
-* [](
+* [descript](https://www.descript.com/)
 * [](
 * [](
 * [](
