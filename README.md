@@ -11,7 +11,7 @@ free resources for being web developer and MORE!
 * [replicastudios](https://www.replicastudios.com/)
 * [fakeyou](https://fakeyou.com/)
 * [descript](https://www.descript.com/)
-* [](
+* [murf](https://murf.ai/)
 * [](
 * [](
 * [](
