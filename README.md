@@ -198,6 +198,9 @@ free resources for being web developer and MORE!
 * [fonty](https://fonty.io/)
 * [iconbuddy](https://iconbuddy.app/)
 
+## json formatter
+* [json formatter](https://jsonformatter.curiousconcept.com/#)
+
 ## LLM
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [cool site](https://bbycroft.net/llm)
