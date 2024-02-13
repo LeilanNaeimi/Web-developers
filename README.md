@@ -261,7 +261,7 @@ free resources for being web developer and MORE!
 * [listnr ai](https://listnr.ai/)
 * [otter](https://otter.ai/)
 * [play ht](https://play.ht/)
-* [](
+* [convai](https://convai.com/)
 * [](
 * [](
 * [](
