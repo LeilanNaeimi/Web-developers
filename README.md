@@ -13,6 +13,10 @@ free resources for being web developer and MORE!
 * [ollama](https://ollama.ai/)
 * [readwise](https://readwise.io/)
 
+## Ai
+* [stockimg](https://stockimg.ai/)
+
+  
 ## Architect webapps
 * [patterns](https://www.patterns.dev/)
     
