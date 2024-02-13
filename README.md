@@ -266,7 +266,8 @@ free resources for being web developer and MORE!
 * [fakeyou](https://fakeyou.com/)
 * [descript](https://www.descript.com/)
 * [murf](https://murf.ai/)
-* [aiva](https://www.aiva.ai/) 
+* [aiva](https://www.aiva.ai/)
+* [leexi](https://www.leexi.ai/)
 
 ## Tools / Extention:
 * [lodash](https://lodash.com/)
