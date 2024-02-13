@@ -260,7 +260,7 @@ free resources for being web developer and MORE!
 ## Text-to-Speech Tools
 * [listnr ai](https://listnr.ai/)
 * [otter](https://otter.ai/)
-* [](
+* [play ht](https://play.ht/)
 * [](
 * [](
 * [](
