@@ -3,17 +3,6 @@ free resources for being web developer and MORE!
 ## COOL
 * [githubunwrapped](https://githubunwrapped.com/)
 
-## Text-to-Speech Tools
-* [listnr ai](https://listnr.ai/)
-* [otter](https://otter.ai/)
-* [play ht](https://play.ht/)
-* [convai](https://convai.com/)
-* [replicastudios](https://www.replicastudios.com/)
-* [fakeyou](https://fakeyou.com/)
-* [descript](https://www.descript.com/)
-* [murf](https://murf.ai/)
-* [aiva](https://www.aiva.ai/) 
-
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
@@ -268,7 +257,16 @@ free resources for being web developer and MORE!
 * [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-
+## Text-to-Speech Tools
+* [listnr ai](https://listnr.ai/)
+* [otter](https://otter.ai/)
+* [play ht](https://play.ht/)
+* [convai](https://convai.com/)
+* [replicastudios](https://www.replicastudios.com/)
+* [fakeyou](https://fakeyou.com/)
+* [descript](https://www.descript.com/)
+* [murf](https://murf.ai/)
+* [aiva](https://www.aiva.ai/) 
 
 ## Tools / Extention:
 * [lodash](https://lodash.com/)
