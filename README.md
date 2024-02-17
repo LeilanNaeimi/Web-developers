@@ -313,7 +313,8 @@ free resources for being web developer and MORE!
 ## Web Dev Tools:
 * [Random Profile Image size 48](https://i.pravatar.cc/48)
 
-
+## Web Design RESOURCES
+* [JONAS' RESOURCES](https://codingheroes.io/resources/)
 
 
 
