@@ -103,9 +103,6 @@ free resources for being web developer and MORE!
 ## Data Science
 * [Data Science Projects](https://thecleverprogrammer.com/2022/03/09/data-science-projects/)
 
-## Date snippets
-* [date snippets for JavaScript & React](https://codetogo.io/)
-
 ## Developer Roadmap
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
