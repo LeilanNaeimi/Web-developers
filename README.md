@@ -45,11 +45,7 @@ free resources for being web developer and MORE!
 ## Challenges
 * [JavaScript30](https://courses.wesbos.com/account/access/6131c800b36fe451adb8cf4b)
 
-## CSS Grid/FLEX
-* [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* [grid malven](https://grid.malven.co/)
-* [flexbox malven](https://flexbox.malven.co/)
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+## CSS  
 * [css-tricks](https://css-tricks.com/)
 * [freefrontend](https://freefrontend.com/css-forms/)
 * [tutsplus](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
@@ -131,6 +127,12 @@ free resources for being web developer and MORE!
 
 ## FLEXBOX FROGGY
 *[FLEXBOX FROGGY](https://flexboxfroggy.com/)
+* [flexbox malven](https://flexbox.malven.co/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+
+## Grid
+* [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [grid malven](https://grid.malven.co/)
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
