@@ -119,11 +119,13 @@ free resources for being web developer and MORE!
 ## FLEXBOX FROGGY
 * [FLEXBOX FROGGY](https://flexboxfroggy.com/)
 * [flexbox malven](https://flexbox.malven.co/)
+* [flexbox defense](http://www.flexboxdefense.com/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 
 ## Grid
 * [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [grid malven](https://grid.malven.co/)
+* [css grid garden](https://cssgridgarden.com/)
 
 ## Good to Know:
 * [how to start coding](https://twitter.com/taherighaletaki/status/1731359660207145004)
@@ -169,11 +171,8 @@ free resources for being web developer and MORE!
 * [codepip](https://codepip.com/games/)
 * [css battle](https://cssbattle.dev/)
 * [CSS Diner](https://flukeout.github.io/)
-* [flexbox froggy](https://flexboxfroggy.com/)
-* [css grid garden](https://cssgridgarden.com/)
 * [css animation](https://cssanimation.rocks/)
 * [unfold](https://rupl.github.io/unfold/)
-* [flexbox defense](http://www.flexboxdefense.com/)
   
 ## Interview Questions:
 * [Interview Questions](https://ashhad.in/list/)
