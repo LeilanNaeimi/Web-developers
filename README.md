@@ -51,6 +51,13 @@ free resources for being web developer and MORE!
 * [freefrontend](https://freefrontend.com/css-forms/)
 * [tutsplus](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
 * [learn-css-animation](https://github.com/atapas/learn-css-animation)
+
+  ## Games to learn CSS
+* [codepip](https://codepip.com/games/)
+* [css battle](https://cssbattle.dev/)
+* [CSS Diner](https://flukeout.github.io/)
+* [css animation](https://cssanimation.rocks/)
+* [unfold](https://rupl.github.io/unfold/)
   
 ## ChatBot:
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
@@ -166,14 +173,7 @@ free resources for being web developer and MORE!
 * [grokking algorithms](https://github.com/egonschiele/grokking_algorithms)
 * [manipulating JavaScript dates in a browser & Node.js](https://github.com/date-fns/date-fns)
 * [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-
-## Games to learn CSS
-* [codepip](https://codepip.com/games/)
-* [css battle](https://cssbattle.dev/)
-* [CSS Diner](https://flukeout.github.io/)
-* [css animation](https://cssanimation.rocks/)
-* [unfold](https://rupl.github.io/unfold/)
-  
+ 
 ## Interview Questions:
 * [Interview Questions](https://ashhad.in/list/)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
