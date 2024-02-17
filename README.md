@@ -66,7 +66,7 @@ free resources for being web developer and MORE!
 * [Web Development Courses](https://progate.com/courses?register=true)
 * [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
   
-## code samles:
+## code samples:
 * [minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
 * [Interactive code examples](https://codapi.org/)
 
