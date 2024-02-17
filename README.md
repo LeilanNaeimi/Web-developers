@@ -117,7 +117,7 @@ free resources for being web developer and MORE!
 * [fonts.google](https://fonts.google.com/specimen/Montserrat)
 
 ## FLEXBOX FROGGY
-*[FLEXBOX FROGGY](https://flexboxfroggy.com/)
+* [FLEXBOX FROGGY](https://flexboxfroggy.com/)
 * [flexbox malven](https://flexbox.malven.co/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 
