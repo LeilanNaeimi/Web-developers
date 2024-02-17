@@ -35,6 +35,7 @@ free resources for being web developer and MORE!
 
 ## BOOKS (FREE)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+* [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
 
 ## Build your own X
 * [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
@@ -106,13 +107,6 @@ free resources for being web developer and MORE!
 ## Developer Roadmap
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-## Design Resources for Developers
-* [Design Resources for Developers](https://dev.to/techcheck/animations-in-react-with-framer-motion-44jo)
-
-## E-Books:
- * [Tech Books](https://github.com/LeilanNaeimi/Tech-Books)
- * [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
-  
 ## Font
 * [fonts](https://fonts.google.com/)
 * [fontlibrary](https://fontlibrary.org/)
