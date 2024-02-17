@@ -59,11 +59,16 @@ free resources for being web developer and MORE!
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 
 ## Courses:
-* [Odin](https://www.theodinproject.com/dashboard)
+* [FullStack](https://www.theodinproject.com/dashboard)
+* [Html & CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+* [CSS & Sass](https://www.udemy.com/course/advanced-css-and-sass/)
+* [javaScript](https://www.udemy.com/course/the-complete-javascript-course/)
+* [Reactjs](https://www.udemy.com/course/the-ultimate-react-course/)
+* [Web Design for Web Developers](https://www.udemy.com/course/web-design-secrets/learn/lecture/2744014#overview)
 * [Learn web development](https://web.dev/learn)
-* [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
 * [Data Structures & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 * [Web Development Courses](https://progate.com/courses?register=true)
+* [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
   
 ## code samles:
 * [minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
