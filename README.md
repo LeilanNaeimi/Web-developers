@@ -16,8 +16,10 @@ free resources for being web developer and MORE!
 * [Snagit]()
 * [game bar]()
 * [Movavi]()
-* []()
-* []()
+* [screenstudio]()
+* [Camtasia]()
+* [Bandicam]()
+* [PowerPoint]()
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
