@@ -14,7 +14,7 @@ free resources for being web developer and MORE!
 * [Split Cam]()
 * [sharex]()
 * [Snagit]()
-* [game bar]()
+* [game bar](https://apps.microsoft.com/detail/9NZKPSTSNW4P?hl=en-US&gl=US)
 * [Movavi](https://www.movavi.com/)
 * [screenstudio](https://www.screen.studio/)
 * [Camtasia](https://www.techsmith.com/video-editor.html)
