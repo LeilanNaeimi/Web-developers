@@ -3,6 +3,19 @@ free resources for being web developer and MORE!
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 
+## Screen Recorder
+* [OBS STUDIO](
+* [Loom]()
+* [xbox]()
+* [Ice Cream ]()
+* [Snipping Tool]()
+* [zoom]()
+* [QuickTime Player]()
+* [Split Cam]()
+* []()
+* []()
+* []()
+
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
