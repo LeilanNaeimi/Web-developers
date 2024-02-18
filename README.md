@@ -17,7 +17,7 @@ free resources for being web developer and MORE!
 * [game bar]()
 * [Movavi]()
 * [screenstudio](https://www.screen.studio/)
-* [Camtasia]()
+* [Camtasia](https://www.techsmith.com/video-editor.html)
 * [Bandicam](https://www.bandicam.com/)
 * [PowerPoint](https://www.howtogeek.com/425191/how-to-record-your-screen-with-powerpoint/)
 
