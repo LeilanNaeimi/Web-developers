@@ -15,7 +15,7 @@ free resources for being web developer and MORE!
 * [sharex]()
 * [Snagit]()
 * [game bar]()
-* [Movavi]()
+* [Movavi](https://www.movavi.com/)
 * [screenstudio](https://www.screen.studio/)
 * [Camtasia](https://www.techsmith.com/video-editor.html)
 * [Bandicam](https://www.bandicam.com/)
