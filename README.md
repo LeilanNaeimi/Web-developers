@@ -19,7 +19,7 @@ free resources for being web developer and MORE!
 * [screenstudio]()
 * [Camtasia]()
 * [Bandicam]()
-* [PowerPoint]()
+* [PowerPoint](https://www.howtogeek.com/425191/how-to-record-your-screen-with-powerpoint/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
