@@ -13,7 +13,7 @@ free resources for being web developer and MORE!
 * [QuickTime Player]()
 * [Split Cam]()
 * [sharex]()
-* [Snagit]()
+* [Snagit](https://www.techsmith.com/screen-capture.html)
 * [game bar](https://apps.microsoft.com/detail/9NZKPSTSNW4P?hl=en-US&gl=US)
 * [Movavi](https://www.movavi.com/)
 * [screenstudio](https://www.screen.studio/)
