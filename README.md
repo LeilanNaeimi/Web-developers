@@ -5,7 +5,7 @@ free resources for being web developer and MORE!
 
 ## Screen Recorder
 * [OBS STUDIO](
-* [Loom]()
+* [Loom](https://www.loom.com/looms)
 * [xbox]()
 * [Ice Cream ]()
 * [Snipping Tool](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)
