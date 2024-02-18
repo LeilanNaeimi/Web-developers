@@ -12,7 +12,10 @@ free resources for being web developer and MORE!
 * [zoom]()
 * [QuickTime Player]()
 * [Split Cam]()
-* []()
+* [sharex]()
+* [Snagit]()
+* [game bar]()
+* [Movavi]()
 * []()
 * []()
 
