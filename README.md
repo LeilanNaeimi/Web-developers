@@ -3,6 +3,28 @@ free resources for being web developer and MORE!
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 
+## Icon Library
+* [svgrepo](https://www.svgrepo.com/)
+* [devicons](https://github.com/devicons/devicon/tree/v2.15.1/icons)
+* [iconhub](https://iconhub.io/)
+* [3dicons](https://3dicons.co/)
+* [phosphoricons](https://phosphoricons.com/)
+* [ionicons](https://ionic.io/ionicons)
+* [radix-ui](https://www.radix-ui.com/icons)
+* [systemuicons](https://www.systemuicons.com/)
+* [lineicons](https://lineicons.com/)
+* [tablericons](https://tablericons.com/)
+* [react icons](https://react-icons.github.io/react-icons/)
+* [free-svg-icons](https://www.reshot.com/free-svg-icons/emoji/)
+* [mingcute](https://www.mingcute.com/)
+* [vectopus](https://atlasicons.vectopus.com/)
+* [healthicons](https://healthicons.org/)
+* [iconoir](https://iconoir.com/)
+* [fonty](https://fonty.io/)
+* [iconbuddy](https://iconbuddy.app/)
+* [heroicons](https://heroicons.com/)
+* [fontawesome](https://fontawesome.com/)
+
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
@@ -181,26 +203,7 @@ free resources for being web developer and MORE!
 * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 * [google interview preparation problems](https://github.com/mgechev/google-interview-preparation-problems/tree/master/src)
 
-## Icon Library
-* [svgrepo](https://www.svgrepo.com/)
-* [devicons](https://github.com/devicons/devicon/tree/v2.15.1/icons)
-* [iconhub](https://iconhub.io/)
-* [3dicons](https://3dicons.co/)
-* [phosphoricons](https://phosphoricons.com/)
-* [ionicons](https://ionic.io/ionicons)
-* [radix-ui](https://www.radix-ui.com/icons)
-* [systemuicons](https://www.systemuicons.com/)
-* [lineicons](https://lineicons.com/)
-* [tablericons](https://tablericons.com/)
-* [react icons](https://react-icons.github.io/react-icons/)
-* [free-svg-icons](https://www.reshot.com/free-svg-icons/emoji/)
-* [mingcute](https://www.mingcute.com/)
-* [vectopus](https://atlasicons.vectopus.com/)
-* [healthicons](https://healthicons.org/)
-* [iconoir](https://iconoir.com/)
-* [fonty](https://fonty.io/)
-* [iconbuddy](https://iconbuddy.app/)
-* [heroicons](https://heroicons.com/)
+
 
 ## json formatter
 * [json formatter](https://jsonformatter.curiousconcept.com/#)
