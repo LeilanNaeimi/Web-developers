@@ -24,6 +24,7 @@ free resources for being web developer and MORE!
 * [iconbuddy](https://iconbuddy.app/)
 * [heroicons](https://heroicons.com/)
 * [fontawesome](https://fontawesome.com/)
+* [icons8](https://icons8.com/line-awesome)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
