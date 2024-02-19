@@ -16,7 +16,6 @@ free resources for being web developer and MORE!
 ## Ai walpaper generate
 * [stockimg](https://stockimg.ai/)
 
-  
 ## Architect webapps
 * [patterns](https://www.patterns.dev/)
     
@@ -52,7 +51,7 @@ free resources for being web developer and MORE!
 * [tutsplus](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
 * [learn-css-animation](https://github.com/atapas/learn-css-animation)
 
-  ## Games to learn CSS
+## Games to learn CSS
 * [codepip](https://codepip.com/games/)
 * [css battle](https://cssbattle.dev/)
 * [CSS Diner](https://flukeout.github.io/)
@@ -201,6 +200,7 @@ free resources for being web developer and MORE!
 * [iconoir](https://iconoir.com/)
 * [fonty](https://fonty.io/)
 * [iconbuddy](https://iconbuddy.app/)
+* [heroicons](https://heroicons.com/)
 
 ## json formatter
 * [json formatter](https://jsonformatter.curiousconcept.com/#)
