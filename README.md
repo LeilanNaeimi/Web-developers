@@ -28,6 +28,7 @@ free resources for being web developer and MORE!
 * [icon54](https://icon54.com/)
 * [iconmonstr](https://iconmonstr.com/)
 * [icomoon](https://icomoon.io/)
+* [geticonjar](https://geticonjar.com/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
