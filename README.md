@@ -27,6 +27,7 @@ free resources for being web developer and MORE!
 * [icons8](https://icons8.com/line-awesome)
 * [icon54](https://icon54.com/)
 * [iconmonstr](https://iconmonstr.com/)
+* [icomoon](https://icomoon.io/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
