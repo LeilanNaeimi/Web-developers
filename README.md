@@ -3,24 +3,6 @@ free resources for being web developer and MORE!
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 
-## Screen Recorder
-* [OBS STUDIO](https://obsproject.com/)
-* [Loom](https://www.loom.com/looms)
-* [xbox](https://search.brave.com/search?q=xbox&source=desktop)
-* [Ice Cream ](https://search.brave.com/search?q=Ice+Cream&source=desktop)
-* [Snipping Tool](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)
-* [zoom](https://zoom.us/)
-* [QuickTime Player(cmd + shift +f5)(mac)]()
-* [Split Cam](https://splitcam.com/)
-* [sharex](https://getsharex.com/)
-* [Snagit](https://www.techsmith.com/screen-capture.html)
-* [game bar](https://apps.microsoft.com/detail/9NZKPSTSNW4P?hl=en-US&gl=US)
-* [Movavi](https://www.movavi.com/)
-* [screenstudio](https://www.screen.studio/)
-* [Camtasia](https://www.techsmith.com/video-editor.html)
-* [Bandicam](https://www.bandicam.com/)
-* [PowerPoint](https://www.howtogeek.com/425191/how-to-record-your-screen-with-powerpoint/)
-
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
@@ -255,6 +237,24 @@ free resources for being web developer and MORE!
 ## Projects Idea
 * [projectbook](https://projectbook.code.brettchalupa.com/)
 
+## Screen Recorder
+* [OBS STUDIO](https://obsproject.com/)
+* [Loom](https://www.loom.com/looms)
+* [xbox](https://search.brave.com/search?q=xbox&source=desktop)
+* [Ice Cream ](https://search.brave.com/search?q=Ice+Cream&source=desktop)
+* [Snipping Tool](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)
+* [zoom](https://zoom.us/)
+* [QuickTime Player(cmd + shift +f5)(mac)]()
+* [Split Cam](https://splitcam.com/)
+* [sharex](https://getsharex.com/)
+* [Snagit](https://www.techsmith.com/screen-capture.html)
+* [game bar](https://apps.microsoft.com/detail/9NZKPSTSNW4P?hl=en-US&gl=US)
+* [Movavi](https://www.movavi.com/)
+* [screenstudio](https://www.screen.studio/)
+* [Camtasia](https://www.techsmith.com/video-editor.html)
+* [Bandicam](https://www.bandicam.com/)
+* [PowerPoint](https://www.howtogeek.com/425191/how-to-record-your-screen-with-powerpoint/)
+  
 ## Sass
 * [sass-lang](https://sass-lang.com/guide/)
   
