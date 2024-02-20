@@ -134,6 +134,14 @@ free resources for being web developer and MORE!
 * [readme.me tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [exercism - javascript](https://github.com/exercism/javascript/tree/main/exercises)
 * [short code snippets for all your development needs](https://www.30secondsofcode.org/)
+* [Objects n javaScript 1](https://javascript.info/object)
+* [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+* [Array in javaScript 1](https://javascript.info/array-methods)
+* [The article on scope](https://wesbos.com/javascript/03-the-tricky-bits/scope)
+* [The article on closures](https://wesbos.com/javascript/03-the-tricky-bits/closures)
+* [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+* [Constructors Are Bad For JavaScript](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
+* [Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
   
 ## Git:
 * [Estimate Github Worth Generator](https://github-worth.vercel.app/)
