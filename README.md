@@ -8,7 +8,7 @@ free resources for being web developer and MORE!
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
 * [public apis](https://github.com/public-apis/public-apis)
 
-## AI Code Generator
+## Ai Code Generator
 * [codepal](https://codepal.ai/)
 * [ollama](https://ollama.ai/)
 * [readwise](https://readwise.io/)
