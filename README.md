@@ -18,16 +18,6 @@ free resources for being web developer and MORE!
 
 ## Architect webapps
 * [patterns](https://www.patterns.dev/)
-    
-## Articles:
-* [Objects n javaScript 1](https://javascript.info/object)
-* [Objects n javaScript 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-* [Array in javaScript 1](https://javascript.info/array-methods)
-* [The article on scope](https://wesbos.com/javascript/03-the-tricky-bits/scope)
-* [The article on closures](https://wesbos.com/javascript/03-the-tricky-bits/closures)
-* [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
-* [Constructors Are Bad For JavaScript](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
-* [Module pattern in JavaScript](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)
 
 ## AWS
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)
