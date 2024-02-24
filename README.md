@@ -9,6 +9,7 @@ free resources for being web developer and MORE!
 * [codechef](https://www.codechef.com/)
 * [exercism](https://exercism.org/)
 * [coderbyte](https://coderbyte.com/)
+* [codeforces](https://codeforces.com/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
