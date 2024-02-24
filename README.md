@@ -3,14 +3,6 @@ free resources for being web developer and MORE!
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 
-## Practice Coding
-* [projecteuler](https://projecteuler.net/)
-* [codesignal](https://codesignal.com/)
-* [codechef](https://www.codechef.com/)
-* [exercism](https://exercism.org/)
-* [coderbyte](https://coderbyte.com/)
-* [codeforces](https://codeforces.com/)
-
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
@@ -241,6 +233,14 @@ free resources for being web developer and MORE!
 * [codeboard](https://codeboard.io/)
 * [replit](https://replit.com/)
 * [codesandbox](https://codesandbox.io/)
+
+## Practice Coding
+* [projecteuler](https://projecteuler.net/)
+* [codesignal](https://codesignal.com/)
+* [codechef](https://www.codechef.com/)
+* [exercism](https://exercism.org/)
+* [coderbyte](https://coderbyte.com/)
+* [codeforces](https://codeforces.com/)
   
 ## Puzzles:
 * [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
