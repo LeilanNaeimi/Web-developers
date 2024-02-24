@@ -3,6 +3,9 @@ free resources for being web developer and MORE!
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 
+## Practice Coding
+* [projecteuler](https://projecteuler.net/)
+
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
