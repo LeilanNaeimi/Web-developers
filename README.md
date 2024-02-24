@@ -7,6 +7,7 @@ free resources for being web developer and MORE!
 * [projecteuler](https://projecteuler.net/)
 * [codesignal](https://codesignal.com/)
 * [codechef](https://www.codechef.com/)
+* [exercism](https://exercism.org/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
