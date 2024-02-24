@@ -8,6 +8,7 @@ free resources for being web developer and MORE!
 * [codesignal](https://codesignal.com/)
 * [codechef](https://www.codechef.com/)
 * [exercism](https://exercism.org/)
+* [coderbyte](https://coderbyte.com/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
