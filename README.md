@@ -6,6 +6,7 @@ free resources for being web developer and MORE!
 ## Practice Coding
 * [projecteuler](https://projecteuler.net/)
 * [codesignal](https://codesignal.com/)
+* [codechef](https://www.codechef.com/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
