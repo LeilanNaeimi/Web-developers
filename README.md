@@ -3,6 +3,7 @@ free resources for being web developer and MORE!
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 * [Turn Sketches into HTML Instantly](https://www.draw-a-ui.com/)
+* [free-for.dev](https://free-for.dev/#/?ref=jonas.io)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
