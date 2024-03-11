@@ -14,8 +14,18 @@ free resources for being web developer and MORE!
 * [ollama](https://ollama.ai/)
 * [readwise](https://readwise.io/)
 
-## Ai walpaper generate
-* [stockimg](https://stockimg.ai/)
+## Ai Tools
+* [Summarize YouTube video](https://eightify.app/)
+* [Create a website in seconds](https://10web.io/)
+* [AI writing assistant](https://hix.ai/)
+* [AI search engine](https://you.com/)
+* [AI resume builder](https://www.kickresume.com/en/)
+* [Content creation](https://postwise.ai/)
+* [AI coding assistant](https://www.tabnine.com/)
+* [AI blog posts](https://www.longshot.ai/)
+* [AI image generator](https://stockimg.ai/)
+* [Chat with any PDF](https://www.chatpdf.com/)
+* [Ai walpaper generate](https://stockimg.ai/)
 
 ## Architect webapps
 * [patterns](https://www.patterns.dev/)
