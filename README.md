@@ -2,6 +2,7 @@
 free resources for being web developer and MORE!
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
+* [Turn Sketches into HTML Instantly](https://www.draw-a-ui.com/)
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
@@ -174,7 +175,7 @@ free resources for being web developer and MORE!
   
 ## Git Repo:
 * [wesbos - JavaScript30](https://github.com/wesbos/JavaScript30)
-* [Top ML Artickles from https://arxiv.org/](https://github.com/dair-ai/ML-Papers-of-the-Week)
+* [Top ML Papers from https://arxiv.org/](https://github.com/dair-ai/ML-Papers-of-the-Week)
 * [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 * [project based learning](https://github.com/practical-tutorials/project-based-learning)
 * [personal web site](https://github.com/Ho3einWave/personal-website-react) 
