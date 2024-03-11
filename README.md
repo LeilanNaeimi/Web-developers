@@ -8,6 +8,16 @@ free resources for being web developer and MORE!
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
 * [public apis](https://github.com/public-apis/public-apis)
 * [randomuser](https://randomuser.me/api/?inc=name,picture&results=48)
+* [Country data API](https://restcountries.com/)
+* [Plants data API](https://trefle.io/)
+* [Space-related API](https://api.nasa.gov/)
+* [Music data API](https://developer.spotify.com/)
+* [News articles API](https://newsapi.org/)
+* [Sunrise/sunset times API](https://sunrise-sunset.org/api)
+* [Pokémon data API](https://pokeapi.co/)
+* [Movie database API](https://omdbapi.com/)
+* [Cat facts API](https://catfact.ninja/)
+* [Dog picture API](https://thedogapi.com/) 
 
 ## Ai Code Generator
 * [codepal](https://codepal.ai/)
