@@ -117,6 +117,9 @@ free resources for being web developer and MORE!
 * [color-hex](https://www.color-hex.com/)
 * [colormind](http://colormind.io/)
 
+## Clean Code
+* [10 Principles for Keeping Your Programming Code Clean](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
+
 ## Create Videos:
 * [3D Videos](https://createstudio.com/)
 
