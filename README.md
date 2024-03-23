@@ -324,6 +324,9 @@ free resources for being web developer and MORE!
 * [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
+## SVG
+* [getwaves svg](https://getwaves.io/)
+
 ## Text-to-Speech Tools
 * [listnr ai](https://listnr.ai/)
 * [otter](https://otter.ai/)
