@@ -21,7 +21,8 @@ free resources for being web developer and MORE!
 * [Pokémon data API](https://pokeapi.co/)
 * [Movie database API](https://omdbapi.com/)
 * [Cat facts API](https://catfact.ninja/)
-* [Dog picture API](https://thedogapi.com/) 
+* [Dog picture API](https://thedogapi.com/)
+* [Rapid API Hub](https://rapidapi.com/hub)
 
 ## Ai Code Generator
 * [codepal](https://codepal.ai/)
