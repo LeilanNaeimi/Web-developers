@@ -1,5 +1,6 @@
 # Web developers Resourses
 free resources for being web developer and MORE!
+
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 * [Turn Sketches into HTML Instantly](https://www.draw-a-ui.com/)
@@ -276,6 +277,10 @@ free resources for being web developer and MORE!
 
 ## Projects Idea
 * [projectbook](https://projectbook.code.brettchalupa.com/)
+* [40+ JavaScript Projects For Your Portfolio](https://dev.to/simonholdorf/9-awesome-projects-you-can-build-with-vanilla-javascript-2o1b)
+* [Javacript Projects](https://www.vanillajavascriptprojects.com/)
+* [Project-Based Web Dev Courses](https://johnsmilga.com/)
+* [100 JavaScript Projects for Web Developers](https://www.100jsprojects.com/)
 
 ## Screen Recorder
 * [OBS STUDIO](https://obsproject.com/)
