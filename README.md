@@ -67,6 +67,9 @@ free resources for being web developer and MORE!
 * [tutsplus](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
 * [learn-css-animation](https://github.com/atapas/learn-css-animation)
 
+## CSS Animation
+* [animista](https://animista.net/play/basic/shadow-drop/shadow-drop-br)
+
 ## Games to learn CSS
 * [codepip](https://codepip.com/games/)
 * [css battle](https://cssbattle.dev/)
