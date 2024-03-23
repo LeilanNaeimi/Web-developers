@@ -7,6 +7,7 @@ free resources for being web developer and MORE!
 
 ## API
 * [Weather API](https://www.weatherapi.com/docs/)
+* [OMDb API](https://www.omdbapi.com/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
 * [public apis](https://github.com/public-apis/public-apis)
 * [randomuser](https://randomuser.me/api/?inc=name,picture&results=48)
