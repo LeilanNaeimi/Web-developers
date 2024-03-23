@@ -326,6 +326,7 @@ free resources for being web developer and MORE!
 
 ## SVG
 * [getwaves svg](https://getwaves.io/)
+* [shapedivider](https://www.shapedivider.app/)
 
 ## Text-to-Speech Tools
 * [listnr ai](https://listnr.ai/)
