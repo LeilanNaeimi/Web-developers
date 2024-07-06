@@ -214,6 +214,7 @@ free resources for being web developer and MORE!
 
 ## Icon Library
 * [svgrepo](https://www.svgrepo.com/)
+* [nucleoapp](https://nucleoapp.com/)
 * [devicons](https://github.com/devicons/devicon/tree/v2.15.1/icons)
 * [iconhub](https://iconhub.io/)
 * [3dicons](https://3dicons.co/)
