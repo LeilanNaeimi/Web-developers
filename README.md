@@ -8,7 +8,12 @@ free resources for being web developer and MORE!
 * [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 * [Phygital](https://app.phygital.plus/) - Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
 * [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
-  
+
+## Ai Code Generator
+* [codepal](https://codepal.ai/)
+* [ollama](https://ollama.ai/)
+* [readwise](https://readwise.io/)
+    
 ### Ai libraries
 * [Summarize YouTube video](https://eightify.app/)
 * [Create a website in seconds](https://10web.io/)
@@ -44,11 +49,6 @@ free resources for being web developer and MORE!
 * [Cat facts API](https://catfact.ninja/)
 * [Dog picture API](https://thedogapi.com/)
 * [Rapid API Hub](https://rapidapi.com/hub)
-
-## Ai Code Generator
-* [codepal](https://codepal.ai/)
-* [ollama](https://ollama.ai/)
-* [readwise](https://readwise.io/)
 
 ## Architect webapps
 * [patterns](https://www.patterns.dev/)
