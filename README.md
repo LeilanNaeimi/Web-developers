@@ -9,7 +9,7 @@ free resources for being web developer and MORE!
 * [Phygital](https://app.phygital.plus/) - Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
 * [Canva](https://www.canva.com/ai-image-generator/) - Generating AI Images.
 
-## Ai Code Generator
+### Ai Code Generator
 * [codepal](https://codepal.ai/)
 * [ollama](https://ollama.ai/)
 * [readwise](https://readwise.io/)
