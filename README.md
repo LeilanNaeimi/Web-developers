@@ -30,6 +30,8 @@ free resources for being web developer and MORE!
 * [readwise](https://readwise.io/)
 
 ## Ai Tools
+### Ai Image libraries
+* [Lexica - Stable Diffusion search engine.](https://lexica.art/)
 * [Summarize YouTube video](https://eightify.app/)
 * [Create a website in seconds](https://10web.io/)
 * [AI writing assistant](https://hix.ai/)
