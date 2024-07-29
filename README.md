@@ -27,6 +27,9 @@ free resources for being web developer and MORE!
 * [Chat with any PDF](https://www.chatpdf.com/)
 * [Ai walpaper generate](https://stockimg.ai/)
 
+### `ChatBot`:
+* [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
+  
 ## COOL
 * [Your coding year in review](https://githubunwrapped.com/)
 * [Turn Sketches into HTML Instantly](https://www.draw-a-ui.com/)
@@ -84,9 +87,6 @@ free resources for being web developer and MORE!
 * [CSS Diner](https://flukeout.github.io/)
 * [css animation](https://cssanimation.rocks/)
 * [unfold](https://rupl.github.io/unfold/)
-  
-## ChatBot:
-* [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
 
 ## Courses:
 * [FullStack](https://www.theodinproject.com/dashboard)
