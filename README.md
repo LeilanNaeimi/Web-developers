@@ -1,4 +1,4 @@
-# Web developers Resourses
+# `Web developers Resourses`
 free resources for being web developer and MORE!
 
 ## `Ai Tools`
@@ -30,12 +30,12 @@ free resources for being web developer and MORE!
 ### `ChatBot:`
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
   
-## COOL
+## `COOL`
 * [Your coding year in review](https://githubunwrapped.com/)
 * [Turn Sketches into HTML Instantly](https://www.draw-a-ui.com/)
 * [free-for.dev](https://free-for.dev/#/?ref=jonas.io)
 
-## API
+## `API`
 * [Weather API](https://www.weatherapi.com/docs/)
 * [OMDb API](https://www.omdbapi.com/)
 * [giphy](https://developers.giphy.com/docs/api/#quick-start-guide)
