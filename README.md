@@ -53,42 +53,42 @@ free resources for being web developer and MORE!
 * [Dog picture API](https://thedogapi.com/)
 * [Rapid API Hub](https://rapidapi.com/hub)
 
-## Architect webapps
+## `Architect webapps`
 * [patterns](https://www.patterns.dev/)
 
-## AWS
+## `AWS`
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40)
 
-## BOOKS (FREE)
+## `BOOKS (FREE)`
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 * [List of Free Learning Resources In Many Languages](https://ebookfoundation.github.io/free-programming-books/)
 
-## Build your own X
+## `Build your own X`
 * [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
-## Browser Compatibility
+## `Browser Compatibility`
 * [Browser Compatibility](https://caniuse.com/)
   
-## Challenges
+## `Challenges`
 * [JavaScript30](https://courses.wesbos.com/account/access/6131c800b36fe451adb8cf4b)
 
-## CSS  
+## `CSS ` 
 * [css-tricks](https://css-tricks.com/)
 * [freefrontend](https://freefrontend.com/css-forms/)
 * [tutsplus](https://webdesign.tutsplus.com/the-30-css-selectors-you-must-memorize--net-16048t)
 * [learn-css-animation](https://github.com/atapas/learn-css-animation)
 
-## CSS Animation
+## `CSS Animation`
 * [animista](https://animista.net/play/basic/shadow-drop/shadow-drop-br)
 
-## Games to learn CSS
+## `Games to learn CSS`
 * [codepip](https://codepip.com/games/)
 * [css battle](https://cssbattle.dev/)
 * [CSS Diner](https://flukeout.github.io/)
 * [css animation](https://cssanimation.rocks/)
 * [unfold](https://rupl.github.io/unfold/)
 
-## Courses:
+## `Courses`
 * [FullStack](https://www.theodinproject.com/dashboard)
 * [Html & CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 * [CSS & Sass](https://www.udemy.com/course/advanced-css-and-sass/)
@@ -100,11 +100,11 @@ free resources for being web developer and MORE!
 * [Web Development Courses](https://progate.com/courses?register=true)
 * [digital marketing](https://skillshop.exceedlms.com/student/collection/654330-digital-marketing)
   
-## code samples:
+## `Code samples`
 * [minimax Alghorithm](https://www.youtube.com/watch?v=P2TcQ3h0ipQ&t=15s)
 * [Interactive code examples](https://codapi.org/)
 
-## Code challenge:
+## `Code challenge`
 * [job assignment codechallenge](https://www.linkedin.com/posts/ali-behzadian-nejad_job-assignment-codechallenge-activity-7071757088468676608-wVx7/)
 * [neetcode](https://neetcode.io/)
 * [leetcode](https://leetcode.com/)
