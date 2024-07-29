@@ -27,7 +27,7 @@ free resources for being web developer and MORE!
 * [Chat with any PDF](https://www.chatpdf.com/)
 * [Ai walpaper generate](https://stockimg.ai/)
 
-### `ChatBot:`
+### `ChatBot`
 * [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools)
   
 ## `COOL`
