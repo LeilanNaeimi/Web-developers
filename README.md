@@ -1,6 +1,10 @@
 # `Web developers Resourses`
 free resources for being web developer and MORE!
 
+## `Better Code`
+* [5 Tips to Write Better Conditionals in JavaScript](https://www.digitalocean.com/community/posts/5-tips-to-write-better-conditionals-in-javascript)
+
+
 ## `Ai Tools`
 ### `Ai Image libraries`
 * [Lexica](https://lexica.art/) - Stable Diffusion search engine.
