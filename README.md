@@ -1,6 +1,9 @@
 # `Web developers Resourses`
 free resources for being web developer and MORE!
 
+## `Algorithms`
+* [The Linear/Binary Search Algorithm in JavaScript](https://code.tutsplus.com/the-binary-search-algorithm-in-javascript--cms-30003t)
+
 ## `Better Code`
 * [5 Tips to Write Better Conditionals in JavaScript](https://www.digitalocean.com/community/posts/5-tips-to-write-better-conditionals-in-javascript) 
 
