@@ -285,7 +285,7 @@ free resources for being web developer and MORE!
 * [coderbyte](https://coderbyte.com/)
 * [codeforces](https://codeforces.com/)
   
-`## Puzzles`
+## `Puzzles`
 * [simple puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 * [simple puzzles app](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 
@@ -296,7 +296,7 @@ free resources for being web developer and MORE!
 * [Project-Based Web Dev Courses](https://johnsmilga.com/)
 * [100 JavaScript Projects for Web Developers](https://www.100jsprojects.com/)
 
-`## PWA`
+## `PWA`
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
 
 ## Screen Recorder
