@@ -3,6 +3,7 @@ free resources for being web developer and MORE!
 
 ## `Better Code`
 * [5 Tips to Write Better Conditionals in JavaScript](https://www.digitalocean.com/community/posts/5-tips-to-write-better-conditionals-in-javascript)
+* [Should I return from a function early or use an if statement? ](https://softwareengineering.stackexchange.com/questions/18454/should-i-return-from-a-function-early-or-use-an-if-statement)
 
 
 ## `Ai Tools`
