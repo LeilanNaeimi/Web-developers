@@ -298,6 +298,7 @@ free resources for being web developer and MORE!
 
 ## `PWA`
 * [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
+* [PWA چیست و چرا به آن نیاز داریم](https://frontcast.ir/pwa/)
 
 ## Screen Recorder
 * [OBS STUDIO](https://obsproject.com/)
